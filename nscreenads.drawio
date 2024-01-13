@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T17:35:41.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Xi8uxER9rFVLLhXyR4KR" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T17:37:07.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MrjV9-W6SqbujdcXrXRy" version="22.1.18" type="github">
   <diagram name="Page-1" id="IiCv1StpUXjD_4k9d-kt">
     <mxGraphModel dx="1133" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -45,6 +45,15 @@
         </mxCell>
         <mxCell id="F2qMhOjMGuMmRdLi5mG1-18" value="dataflow-auction-data-americas-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="705" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="550" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
