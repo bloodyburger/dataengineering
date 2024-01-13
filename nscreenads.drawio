@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T17:26:47.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="eFap4Z_Ear29EE2f92Cu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T17:35:41.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Xi8uxER9rFVLLhXyR4KR" version="22.1.18" type="github">
   <diagram name="Page-1" id="IiCv1StpUXjD_4k9d-kt">
-    <mxGraphModel>
+    <mxGraphModel dx="1133" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2qMhOjMGuMmRdLi5mG1-1" target="F2qMhOjMGuMmRdLi5mG1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-1" value="nscreenads/logs/auction" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-5" value="EC2_us_east_1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-8" value="temp-auction-us-virginia-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-9" value="pelton-auction-us-virginia-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-10" value="dataflow-auction-data-americas-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="710" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-11" value="nscreenads/logs/bid" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-12" value="nscreenads/logs/win" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-13" value="temp-auction-us-virginia-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-14" value="pelton-auction-us-virginia-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-15" value="dataflow-auction-data-americas-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="705" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-16" value="temp-auction-us-virginia-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="355" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-17" value="pelton-auction-us-virginia-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2qMhOjMGuMmRdLi5mG1-18" value="dataflow-auction-data-americas-east-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="705" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
